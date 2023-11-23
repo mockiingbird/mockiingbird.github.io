@@ -7,11 +7,11 @@
 
 ---
 #### [Analysis of Turkey's IDA Credit SQL](https://www.linkedin.com/pulse/sql-analysis-turkeys-ida-credit-tilbe-surmeli-ih2cc%3FtrackingId=tsupjcwASKCNll4YTQjyQQ%253D%253D/?trackingId=tsupjcwASKCNll4YTQjyQQ%3D%3D)
-[<img src="images/SyriaTurkey Earthquake Email Header in Red Grey Utilitarian Style.png"/>]
+<img src="images/SyriaTurkey Earthquake Email Header in Red Grey Utilitarian Style.png"/>
 
 ---
 #### [Customer Shopping Analysis EXCEL](https://www.linkedin.com/pulse/customer-shopping-analytics-21-days-data-challenge-tilbe-surmeli-dhljc))
-<img src="images/Red White and Pink Typographic and Stunning Shopping Themed Youtube Thumbnail.jpg"/>(https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+<img src="images/Red White and Pink Typographic and Stunning Shopping Themed Youtube Thumbnail.jpg"/>
 My final write up for Avery Smith's 21 Days To Data project covering Customer Shopping data. 
 
 
