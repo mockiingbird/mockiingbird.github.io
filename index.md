@@ -15,7 +15,7 @@
 ---
 
 
-#### [NBA ANALYSIS 2021-2022](https://www.linkedin.com/pulse/sql-analysis-turkeys-ida-credit-tilbe-surmeli-ih2cc%3FtrackingId=tsupjcwASKCNll4YTQjyQQ%253D%253D/?trackingId=tsupjcwASKCNll4YTQjyQQ%3D%3D)
+#### [NBA ANALYSIS 2021-2022](https://www.linkedin.com/pulse/nba-analysis-2021-2022-tilbe-surmeli-z6mfc%3FtrackingId=U6q2NTZ%252BT2G2FlwlI9ruOA%253D%253D/?trackingId=U6q2NTZ%2BT2G2FlwlI9ruOA%3D%3D)
 <img src="images/Pastel Rainbow Modern January Monthly Email Header.png"/>
 ---
 #### [Customer Shopping Analysis EXCEL](https://www.linkedin.com/pulse/customer-shopping-analytics-21-days-data-challenge-tilbe-surmeli-dhljc)
