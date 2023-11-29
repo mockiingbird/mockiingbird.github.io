@@ -10,7 +10,7 @@
 <img src="images/SyriaTurkey Earthquake Email Header in Red Grey Utilitarian Style.png"/>
 
 ---
-#### [Customer Shopping Analysis EXCEL](https://www.linkedin.com/pulse/customer-shopping-analytics-21-days-data-challenge-tilbe-surmeli-dhljc))
+#### [Customer Shopping Analysis EXCEL](https://www.linkedin.com/pulse/customer-shopping-analytics-21-days-data-challenge-tilbe-surmeli-dhljc)
 <img src="images/Red White and Pink Typographic and Stunning Shopping Themed Youtube Thumbnail.jpg"/>
 My final write up for Avery Smith's 21 Days To Data project covering Customer Shopping data. 
 
