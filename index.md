@@ -3,6 +3,9 @@
 ---
 
 ### Learn About My Projects
+---
+#### [Python Mining Analysis](https://www.linkedin.com/pulse/python-mining-analysis-engineering-challenge-tilbe-surmeli-x4avc/)
+<img src="images/grey simple national miners day instagram post .png"/>
 
 
 ---
@@ -35,11 +38,6 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
